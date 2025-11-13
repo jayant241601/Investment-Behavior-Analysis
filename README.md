@@ -20,7 +20,7 @@ All analysis was performed in **Microsoft Excel**, and the summary visualization
 | **Gender Distribution** | 25 Male (62.5%), 15 Female (37.5%) |
 | **Top Investment Avenues** | Mutual Funds (45%), Equity (25%), Fixed Deposits (22%), PPF (8%) |
 | **Reasons for Investment** | 30% Capital Appreciation, 30% Wealth Creation, 8% Dividend Income, 2% Liquidity |
-| **Savings Objectives** | 60% Retirement, 33% Education, 7% Emergencies |
+| **Savings Objectives** | 60% Retirement, 33% Health, 7% Education |
 
 ---
 
